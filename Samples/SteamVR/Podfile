@@ -1,0 +1,4 @@
+target 'SteamVR' do
+  pod 'GVRKit'
+  pod 'GVRAudioSDK'
+end
